@@ -8,4 +8,10 @@ public class Test
 		int k=i+j;
 	
 	}
+
+	public void m2(){
+	
+		//.............
+	}
+
 }
